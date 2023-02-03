@@ -120,7 +120,7 @@
       
       * EMA
       
-      *Early stopping
+      * Early stopping
 
     * Dataset augmentation
     
